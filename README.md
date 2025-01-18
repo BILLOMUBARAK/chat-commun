@@ -1,3 +1,3 @@
-This project aims to create a shared chat interface where users can connect to a server and chat with others.
+This project aims to connect to a server and  to share a same chat interface where users can talk  with others.
 
-Ce projet vise à créer une interface de chat commun où les utilisateurs peuvent se connecter à un serveur et discuter avec d'autres personnes.
+Ce projet vise à se connecté à un serveur et à une interface de chat commun où les utilisateurs peuvent discuter avec d'autres personnes.
